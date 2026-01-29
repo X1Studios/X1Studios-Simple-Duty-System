@@ -1,0 +1,12 @@
+X1Studios Simple Duty System - X1Studios (SheriffX1)
+
+1) Drag and drop file 'X1S-GodMode' into resources.
+2) 'ensure X1S-PermaGod' in server.cfg
+3) Restart your server.
+4) Enjoy.
+
+Command - "/dutymenu"
+
+Make sure to add your DC servers GUILDID, DC bots token, and DC webhook into the config
+
+You may add as many departments as you want,
